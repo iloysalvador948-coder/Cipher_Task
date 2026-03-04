@@ -1,16 +1,20 @@
-# cypher_task_app
+# Cipher_Task - Secure Encrypted To-Do System
 
-A new Flutter project.
+## 👥 Team Members
 
-## Getting Started
+1. Rolly Boy Ryan Pionilla – Authentication & Encryption
+2. Jhonn Lee Maning – UI/UX Design
+3. Rolly Boy Ryan Pionilla – Database & Session Management
+4. Angelo Padullon – Integration & Testing
 
-This project is a starting point for a Flutter application.
+## 🔐 Features Implemented
 
-A few resources to get you started if this is your first Flutter project:
+- AES-256 Encryption for data at rest
+- SQLCipher / Encrypted Hive database
+- Biometric Authentication (Fingerprint / Face ID)
+- Automatic Session Timeout
+- Secure Key Storage using FlutterSecureStorage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 APK Download
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://drive.google.com/drive/folders/1Cpa-YGrrIdLhgGpXKtrhahSaqWpNEmpX?usp=sharing)
