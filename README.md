@@ -2,11 +2,9 @@
 
 ## 👥 Team Members
 
-1. Rolly Boy Ryan Pionilla – Authentication & Encryption
-2. Jhonn Lee Maning – UI/UX Design
-3. Rolly Boy Ryan Pionilla – Database & Session Management
-4. Angelo Padullon – Integration & Testing
-
+1. Angelo S. Padullon - Lead Architect & DB Engineer, Security & Cryptography Lead
+2. Jhonn Lee Maning - Auth & Biometrics Specialist, Backend & Network (SSL)
+3. Rolly Boy Ryan Pionilla - UI/UX & Integration
 ## 🔐 Features Implemented
 
 - AES-256 Encryption for data at rest
